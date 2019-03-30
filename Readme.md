@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Марина Супряткина](https://up.htmlacademy.ru/adaptive/16/user/975023).
-* Наставник: `Неизвестно`.
+* Наставник: `Владислав Ахметвалиев`.
 
 ---
 
